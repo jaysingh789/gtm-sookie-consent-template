@@ -1,0 +1,5 @@
+homepage: "https://sookie-nbe1804.maketools.dk/"
+documentation: "https://github.com/jaysingh789/gtm-sookie-consent-template/blob/main/README.md"
+versions:
+  - sha: "PASTE_YOUR_LATEST_COMMIT_SHA_HERE"
+    changeNotes: "Initial release of Sookie Cookie Consent template with Consent Mode v2 support."
